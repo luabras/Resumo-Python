@@ -1,5 +1,5 @@
 # Resumo-Python
-Notebook com um resumo e aplicações dos principais conceitos da linguagem Python:
+Notebook com resumo e aplicações dos principais conceitos da linguagem Python:
 
 * Strings
 * Operações matemáticas
